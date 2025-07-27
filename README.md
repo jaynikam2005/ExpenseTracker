@@ -127,18 +127,24 @@ expense-tracker/
 
 **Main Interface:**
 
-<img width="586" height="393" alt="image" src="https://github.com/user-attachments/assets/32809a9e-04e0-45a4-ab99-aea793057be0" />
+<img width="586" height="393" alt="image" src="https://github.com/user-attachments/assets/2c0aa94b-5636-4b1e-b917-404f4762753d" />
+
+
 
 
 **Adding an Expense:**
 
 
-<img width="586" height="393" alt="image" src="https://github.com/user-attachments/assets/c18605d0-ca8b-4525-9a06-995dcf526485" />
+<img width="586" height="393" alt="image" src="https://github.com/user-attachments/assets/12995511-e2a3-435e-9e5d-bd7fc6e528b3" />
+
+
+
 
 **Expense List:**
 
 
-<img width="579" height="386" alt="image" src="https://github.com/user-attachments/assets/accb74b2-dcf3-4151-bdfe-9c73812c5383" />
+<img width="579" height="386" alt="image" src="https://github.com/user-attachments/assets/acd27e3c-03ea-41f7-bab0-bf949b97f834" />
+
 
 
 ## 🤝 Contributing
