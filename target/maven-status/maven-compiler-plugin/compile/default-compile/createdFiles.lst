@@ -1,0 +1,4 @@
+gui\ExpenseTrackerGUI.class
+dao\ExpenseDAO.class
+com\example\Main.class
+model\Expense.class
